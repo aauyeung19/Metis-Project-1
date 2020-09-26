@@ -1,0 +1,26 @@
+Rank,STATION,total_st_traffic,Traffic Per Week,Station ID,Complex ID,GTFS Stop ID,Division,Line,Stop Name,Borough,Daytime Routes,Structure,GTFS Latitude,GTFS Longitude,North Direction Label,South Direction Label,Similarity,
+1,34 ST-PENN STA,3870985,297768,164,164,A28,IND,8th Av - Fulton St,34 St - Penn Station,M,A C E,Subway,40.752287,-73.993391,Uptown - Queens,Downtown & Brooklyn,0.8527,34 ST-PENN STA
+2,34 ST-HERALD SQ,3086514,237424,12,607,R17,BMT,Broadway - Brighton,34 St - Herald Sq,M,N Q R W,Subway,40.749567,-73.98795,Uptown & Queens,Downtown & Brooklyn,1.0000,34 ST-HERALD SQ
+3,125 ST,2936132,225856,153,153,A15,IND,8th Av - Fulton St,125 St,M,A B C D,Subway,40.811109,-73.952343,Uptown & The Bronx,Downtown & Brooklyn,1.0000,125 ST
+4,86 ST,2780528,213887,38,38,R44,BMT,4th Av,86 St,Bk,R,Subway,40.622687,-74.028398,Manhattan,95 St,1.0000,86 ST
+5,GRD CNTRL-42 ST,2614805,201139,402,610,631,IRT,Lexington Av,Grand Central - 42 St,M,4 5 6,Subway,40.751776,-73.976848,Uptown & The Bronx,Downtown & Brooklyn,0.6431,GRD CNTRL-42 ST
+6,14 ST-UNION SQ,2582463,198651,15,602,R20,BMT,Broadway - Brighton,14 St - Union Sq,M,N Q R W,Subway,40.735736,-73.990568,Uptown & Queens,Downtown & Brooklyn,1.0000,14 ST-UNION SQ
+7,42 ST-PORT AUTH,2452743,188673,163,611,A27,IND,8th Av - Fulton St,42 St - Port Authority Bus Terminal,M,A C E,Subway,40.757308,-73.989735,Uptown - Queens,Downtown & Brooklyn,0.6147,42 ST-PORT AUTH
+8,23 ST,2339046,179927,14,14,R19,BMT,Broadway - Brighton,23 St,M,R W,Subway,40.741303,-73.989344,Uptown & Queens,Downtown & Brooklyn,1.0000,23 ST
+9,FULTON ST,2202432,169418,106,628,M22,BMT,Jamaica,Fulton St,M,J Z,Subway,40.710374,-74.007582,Brooklyn,Broad St,1.0000,FULTON ST
+10,FLUSHING-MAIN,2185677,168129,447,447,701,IRT,Flushing,Flushing - Main St,Q,7,Subway,40.7596,-73.83003,,Manhattan,0.9833,FLUSHING-MAIN
+11,59 ST,2098098,161392,35,35,R41,BMT,4th Av,59 St,Bk,N R,Subway,40.641362,-74.017881,Manhattan,Coney Island - Bay Ridge,1.0000,59 ST
+12,TIMES SQ-42 ST,2003206,154093,11,611,R16,BMT,Broadway - Brighton,Times Sq - 42 St,M,N Q R W,Subway,40.754672,-73.986754,Uptown & Queens,Downtown & Brooklyn,1.0000,TIMES SQ-42 ST
+13,96 ST,1964799,151138,157,157,A19,IND,8th Av - Fulton St,96 St,M,B C,Subway,40.791642,-73.964696,Uptown & The Bronx,Downtown & Brooklyn,1.0000,96 ST
+14,JKSN HT-ROOSVLT,1934440,148803,267,616,G14,IND,Queens Blvd,Jackson Hts - Roosevelt Av,Q,E F M R,Subway,40.746644,-73.891338,Forest Hills - Jamaica,Manhattan,0.0000,JKSN HT-ROOSVLT
+15,59 ST COLUMBUS,1545335,118872,161,614,A24,IND,8th Av - Fulton St,59 St - Columbus Circle,M,A B C D,Subway,40.768296,-73.981736,Uptown & The Bronx,Downtown & Brooklyn,0.9294,59 ST COLUMBUS
+16,CANAL ST,1488692,114515,18,623,R23,BMT,Broadway,Canal St,M,R W,Subway,40.719527,-74.001775,Uptown & Queens,Downtown & Brooklyn,1.0000,CANAL ST
+17,JAMAICA CENTER,1466347,112796,278,278,G05,IND,Queens - Archer,Jamaica Center - Parsons/Archer,Q,E J Z,Subway,40.702147,-73.801109,,Manhattan,0.8909,JAMAICA CENTER
+18,47-50 STS ROCK,1456341,112026,225,225,D15,IND,6th Av - Culver,47-50 Sts - Rockefeller Ctr,M,B D F M,Subway,40.758663,-73.981329,Uptown & The Bronx - Queens,Downtown & Brooklyn,0.7095,47-50 STS ROCK
+19,ATL AV-BARCLAY,1400168,107705,338,617,235,IRT,Eastern Pky,Atlantic Av - Barclays Ctr,Bk,2 3 4 5,Subway,40.684359,-73.977666,Manhattan,Flatbush - New Lots,0.0000,ATL AV-BARCLAY
+20,CHURCH AV,1397640,107511,44,44,D28,BMT,Broadway - Brighton,Church Av,Bk,B Q,Open Cut,40.650527,-73.962982,Manhattan,Brighton Beach & Coney Island,1.0000,CHURCH AV
+21,145 ST,1375462,105805,151,151,A12,IND,8th Av - Fulton St,145 St,M,A C,Subway,40.824783,-73.944216,Uptown & The Bronx,Downtown & Brooklyn,1.0000,145 ST
+22,PATH NEW WTC,1339506,103039,171,624,E01,IND,8th Av - Fulton St,World Trade Center,M,E,Subway,40.712582,-74.009781,Uptown & Queens,,0.0000,PATH NEW WTC
+23,14 ST,1333735,102595,166,618,A31,IND,8th Av - Fulton St,14 St,M,A C E,Subway,40.740893,-74.00169,Uptown - Queens,Downtown & Brooklyn,1.0000,14 ST
+24,72 ST,1250155,96166,160,160,A22,IND,8th Av - Fulton St,72 St,M,B C,Subway,40.775594,-73.97641,Uptown & The Bronx,Downtown & Brooklyn,1.0000,72 ST
+25,JUNCTION BLVD,1225442,94265,451,451,707,IRT,Flushing,Junction Blvd,Q,7,Elevated,40.749145,-73.869527,Flushing,Manhattan,1.0000,JUNCTION BLVD
