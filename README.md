@@ -17,6 +17,8 @@ In the course of working towards the solution, a primary assumption has been mad
 
 [MTA Subway Stations Location Data](http://web.mta.info/developers/data/nyct/subway/Stations.csv)  
 
+---
+
 ## Overall Recommendation  
 
 1. A set of 7 stations located in Manhattan, all below Central Park, were finalized as the recommended outreach locations. These were chosen due to the high commuter traffic they experience as well their geographic proximity to each other; making it easier for the street teams to coordinate logistically.  
