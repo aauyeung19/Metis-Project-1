@@ -15,7 +15,7 @@ In the course of working towards the solution, a primary assumption has been mad
 
 [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)  
 
-[MTA Subway Stations Location Data](web.mta.info/developers/data/nyct/subway/Stations.csv)  
+[MTA Subway Stations Location Data](http://web.mta.info/developers/data/nyct/subway/Stations.csv)  
 
 ## Overall Recommendation  
 
@@ -30,7 +30,7 @@ In the course of working towards the solution, a primary assumption has been mad
     
 2. It is recommended to focus on outreach only on weekdays and ignore the weekends. Two shifts, from 5 AM to 1 PM and 1 PM to 9 PM can be deployed.  
 
-3. Based on street team capacity/expense constraints, the reach out targets can be optimized further:  
+3. Based on street team capacity/expense constraints, the out reach targets can be optimized further:  
     * If a single shift has to be picked, focus just on evening shift. The traffic is 30% higher in these 7 stations during the evenings.
     * If a single day has to be picked, Thursday experiences 15% higher traffic than the average daily amount.
     * If a single station has to be picked, 34th - Penn Station has the highest traffic throughput amongst all the 7 stations.
